@@ -10,7 +10,7 @@
 2. Type these below code in notepad and save it as Trojan.bat 
 3. Double click on Trojan.bat file. 
 4. When the trojan code executes, it will open MS-Paint, Notepad, Command Prompt, Explorer, etc., infinitely. 
-5. Restart the computer to stop the execution of this trojan. 
+5. Restart the computer to stop the execution of this trojan.
  
 # TROJAN: 
   In computing, a Trojan horse,or trojan, is any malware which misleads users of its 
